@@ -5,3 +5,5 @@ git log
 git switch master
 git switch -c dark-mode
 git checkout orange-mode
+Add another commands
+Add one more commands
