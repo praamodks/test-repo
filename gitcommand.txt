@@ -1,0 +1,7 @@
+git branch
+git branch bug-fix
+git switch bug-fix
+git log
+git switch master
+git switch -c dark-mode
+git checkout orange-mode
